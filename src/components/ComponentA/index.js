@@ -11,8 +11,8 @@ const ComponentA = () => {
   }
 
   return (
-    <div>
-      <div className="container">
+    <div className="container">
+      <div>
         <div
           className={isRed ? `card ${'red-button'}` : `card ${'blue-button'}`}
         >

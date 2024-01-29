@@ -1,7 +1,6 @@
 .button {
   background-color: transparent;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  margin-top: 10px;
+   color:white;
+   border:1px solid gray;
+   padding:10px
 }
